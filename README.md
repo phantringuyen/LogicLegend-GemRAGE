@@ -1,4 +1,4 @@
-# AIConfig and LLaMA Guard: Ensuring Safety in Human-AI Conversations
+# GemRAGE: Ensuring Safety in Human-AI Conversations
 
 In the past few years, in the bustling world of artificial intelligence, there has been a growing need for safe and reliable human-AI interactions. As the use of generative AI (GenAI) models became more widespread, it became increasingly important to ensure that these models were not only effective but also safe and appropriate in their responses.
 
