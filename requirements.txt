@@ -1,0 +1,7 @@
+langchain
+streamlit
+unstructured
+unstructured[pdf]
+chromadb
+google-generativeai
+watchdog

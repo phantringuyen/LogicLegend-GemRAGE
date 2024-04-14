@@ -1,0 +1,8 @@
+# Ignore .pth files
+*.pth
+
+# Ignore .json files
+*.json
+
+# Ignore .model files
+*.model
