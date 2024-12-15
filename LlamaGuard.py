@@ -7,7 +7,7 @@ model_id = "meta-llama/LlamaGuard-7b"
 device = "cuda"
 dtype = torch.bfloat16
 
-LLAMA_API_KEY = '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'
+LLAMA_API_KEY = 'YOUR_LLAMA_API_KEY'
 login(LLAMA_API_KEY)
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
